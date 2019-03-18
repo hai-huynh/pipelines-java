@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vicsuper-sandbox/Learning/_apis/build/status/hai-huynh.pipelines-java?branchName=master)](https://dev.azure.com/vicsuper-sandbox/Learning/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
